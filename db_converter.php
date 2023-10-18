@@ -27,5 +27,5 @@ foreach ($data['cities'] as $city) {
 
 fclose($file);
 
-echo 'Données converties en fichier SQL.';
+echo 'Données converties en fichier SQL';
 ?>
